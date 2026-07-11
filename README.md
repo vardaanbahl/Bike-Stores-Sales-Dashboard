@@ -43,3 +43,15 @@ The data was queried using SQL, analyzed in Excel, and visualized in Tableau to 
 
 - `excel/Bike_Stores_Analysis.xlsx`
 - `sql/bike_store_sales_analysis.sql`
+
+
+---
+
+# 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|----------|
+| SQL | Data extraction, joins, filtering, aggregation, and transformation |
+| Microsoft Excel | Data preparation, pivot tables, and exploratory analysis |
+| Tableau | Interactive dashboard creation and business visualization |
+| Git & GitHub | Version control and project documentation |
