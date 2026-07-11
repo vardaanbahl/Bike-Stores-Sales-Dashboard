@@ -55,3 +55,18 @@ The data was queried using SQL, analyzed in Excel, and visualized in Tableau to 
 | Microsoft Excel | Data preparation, pivot tables, and exploratory analysis |
 | Tableau | Interactive dashboard creation and business visualization |
 | Git & GitHub | Version control and project documentation |
+
+
+---
+
+# 📝 Methodology
+
+The project followed the following workflow:
+
+1. Collected the Bike Stores transactional dataset.
+2. Used SQL to join multiple tables and prepare analytical datasets.
+3. Imported the processed data into Microsoft Excel for validation and exploratory analysis.
+4. Created calculated fields and summarized business metrics.
+5. Connected the prepared dataset to Tableau.
+6. Designed an interactive dashboard with KPIs and visualizations.
+7. Analyzed business performance and generated actionable insights.
