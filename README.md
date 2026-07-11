@@ -22,3 +22,24 @@ This project analyzes sales data from a multi-store bicycle retailer to uncover 
 Retail businesses need timely insights into sales performance, customer behavior, and product demand to make informed business decisions. However, raw transactional data is difficult to interpret without proper analysis and visualization.
 
 This project transforms raw sales data into an interactive Tableau dashboard, enabling users to monitor key performance indicators (KPIs), identify top-performing products and stores, analyze sales trends, and support data-driven decision-making.
+---
+
+# 📂 Dataset
+
+The project uses the **Bike Stores** sales dataset containing transactional sales records from multiple stores. The dataset includes information on:
+
+- Orders
+- Customers
+- Products
+- Categories
+- Brands
+- Stores
+- Staff
+- Order Items
+
+The data was queried using SQL, analyzed in Excel, and visualized in Tableau to generate business insights.
+
+### Dataset Files
+
+- `excel/Bike_Stores_Analysis.xlsx`
+- `sql/bike_store_sales_analysis.sql`
