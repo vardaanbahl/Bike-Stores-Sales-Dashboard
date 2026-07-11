@@ -70,3 +70,14 @@ The project followed the following workflow:
 5. Connected the prepared dataset to Tableau.
 6. Designed an interactive dashboard with KPIs and visualizations.
 7. Analyzed business performance and generated actionable insights.
+---
+
+# 📊 Dashboard Preview
+
+The interactive Tableau dashboard provides a comprehensive overview of Bike Stores sales performance through key business metrics and visualizations.
+
+### Dashboard
+
+<p align="center">
+  <img src="dashboard/BikeStores_Dashboard.png" width="100%">
+</p>
